@@ -63,7 +63,7 @@ To develop a machine learning classifier that can assist in the early detection 
 
 ## ✅ Results
 
-- **Accuracy Score**: ~96% (Exact value in notebook)
+- **Accuracy Score**: ~97% (Exact value in notebook)
 - The model performs well in distinguishing between malignant and benign cases.
 
 ---
